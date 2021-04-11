@@ -27,3 +27,28 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
+# Hannah Will
+
+## Geography
+
+I live in the city of New York, in the sate of New York, in the United States of America.
+
+## Reading
+
+Two of my favorite books are: 
+
+-*Pride and Prejudice* by Jane Austen
+-*Animal Farm* by George Orwell
+
+## Food
+
+These are my three top foods:
+
+1. Chocolate
+2. Tomato soup
+3. French onion soup
+
+## Contact
+
+The best way to get in touch with me is [on google] (https://docs.google.com/document/d/1_kpTYW-sInKFXwvVCqC8LaMcxP7GyNDWtuj_KRRGZ5A/edit?pli=1).
+
