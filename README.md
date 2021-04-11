@@ -37,8 +37,8 @@ I live in the city of New York, in the sate of New York, in the United States of
 
 Two of my favorite books are: 
 
--*Pride and Prejudice* by Jane Austen
--*Animal Farm* by George Orwell
+- *Pride and Prejudice* by Jane Austen
+- *Animal Farm* by George Orwell
 
 ## Food
 
